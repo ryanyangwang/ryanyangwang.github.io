@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet policy | Ryan Wang</title>
+    <link>https://ryanyangwang.github.io/tag/internet-policy/</link>
+      <atom:link href="https://ryanyangwang.github.io/tag/internet-policy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Internet policy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanyangwang.github.io/media/icon_hu9929750aa6c345baea2685e82ac1c0be_431545_512x512_fill_lanczos_center_3.png</url>
+      <title>Internet policy</title>
+      <link>https://ryanyangwang.github.io/tag/internet-policy/</link>
+    </image>
+    
+    <item>
+      <title>What $2.5 billion can buy: The effect of the Broadband Initiatives Program on farm productivity</title>
+      <link>https://ryanyangwang.github.io/publication/bip/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ryanyangwang.github.io/publication/bip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of free trade agreements on Internet domain name arbitration cases: A cross-national comparison of the Uniform Dispute Resolution Policy</title>
+      <link>https://ryanyangwang.github.io/publication/freetrade/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ryanyangwang.github.io/publication/freetrade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From headline to lifeline: does news set agenda for policy?</title>
+      <link>https://ryanyangwang.github.io/publication/lifeline/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://ryanyangwang.github.io/publication/lifeline/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
