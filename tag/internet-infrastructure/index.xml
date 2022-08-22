@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet infrastructure | Ryan Wang</title>
+    <link>https://ryanyangwang.github.io/tag/internet-infrastructure/</link>
+      <atom:link href="https://ryanyangwang.github.io/tag/internet-infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <description>Internet infrastructure</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanyangwang.github.io/media/icon_hu9929750aa6c345baea2685e82ac1c0be_431545_512x512_fill_lanczos_center_3.png</url>
+      <title>Internet infrastructure</title>
+      <link>https://ryanyangwang.github.io/tag/internet-infrastructure/</link>
+    </image>
+    
+    <item>
+      <title>Learning from the neighbors: The diffusion of state broadband policies in United States</title>
+      <link>https://ryanyangwang.github.io/project/policy/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ryanyangwang.github.io/project/policy/</guid>
+      <description>&lt;p&gt;This project will examine how state broadband policies diffused among the states in the United States over the last 30-year period utilizing a network approach and a recently released dataset, the State Broadband Explorer curated by the Pew Charitable Trusts’s Broadband Initiates (2019). The 835 state broadband policies in the United States (until January 2021) have been categorized into six main themes: broadband programs, competition and regulation, definitions, funding and financing, infrastructure access and legislative intent.&lt;/p&gt;
+&lt;p&gt;We investigate broadband policies diffusion in the United States at the state level. The existing policy literature has identified four types of diffusion mechanisms: (1) learning by the success (or failure) of policies in other adopting units; (2) competition with other geographical units (i.e., states) for resources; (3) conformity to mandates from higher jurisdictions (such as national governments or international organizations); and (4) emulation of other units perceived to be ideologically compatible. Drawing from the broader policy diffusion literature, the current study aims at presenting the very first examination of state broadband policy diffusion in the United States with a network approach. Specifically, we examine in which states are emerging as exemplars in specific thematic areas and what mechanisms are at work.&lt;/p&gt;
+&lt;p&gt;Instead of employing the traditional approach of event history analysis in policy diffusion literature, this study adopts a network approach based on recent methodological developments. Our purposes in the present study are two-fold: (1) utilizing the netinf algorithm (Gomez-Rodriguez et al., 2012), we infer a latent network of broadband policy diffusion in the United States for the past 30 years. Simultaneously, it uses the centrality measure and community detection algorithm to identify the facilitators (and early adopters) of the diffusion. (2) Building on the latent network generated from the first part, we test the determinants of the observed patterns of diffusion with a multilevel and dynamic logistic model (with pairs of states as the unit of analysis). Specifically, the logistic model incorporates the nodal-level state characteristics including social-demographic factors (i.e., population), political and legislative factors (i.e., legislative control, state governors’ party, state political partisanship), economic factors (i.e., state GDP), as well as the geographical factors such as geographical proximity and contiguity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal analysis of broadband penetration in the United States: An INLA approach</title>
+      <link>https://ryanyangwang.github.io/project/broadband/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ryanyangwang.github.io/project/broadband/</guid>
+      <description>&lt;p&gt;In this study, we are using the current standard of fixed broadband as 25 megabits per second for downloads (Mpbs) and 3 Mpbs for uploads, as defined by the Federal Communication Committees in 2015 and provided through Form 477. Albeit the criticism on the Form 477 data, it is still the most granular data source in terms of its spatial and temporal availability.We are adopting the bottom-up aggregation approach from the census tract level to the county level (N = 3,108 contiguous U.S. counties), in order to better reduce the potential bias led by self-filed broadband metrics collected on a higher order of geographies.&lt;/p&gt;
+&lt;p&gt;Analytically, we are using the Bayesian spatio-temporal statistic model in this project, which is specified with Integrated Nested Laplace Approximation. The biggest advantage of Bayesian inference with an INLA approach is its flexibility to incorporate the latent spatial (i.e., Besag-York-Mollié model) and temporal effects (i.e., random-walk model), and also a space-time interaction. Additionally, it is more efficient when compared to other computationally intensive models such as the Markov Chain Monte Carlo algorithm.&lt;/p&gt;
+&lt;p&gt;In sum, this paper aims at identifying the spatial patterns of broadband penetration in the U.S. and how these patterns evolve over the period of 2016-2020. In particular, we would like to examine the spatial heterogeneity and dependence of broadband penetration in a broader context of (spatial) digital inequality. Such polarized and inequal patterns could lead to further consequences in economic development, community building, and political participation, within various spatial regimes. This paper could further contribute to the literature as the first study on the U.S.’s broadband penetration while taking the spatial, temporal, and their interaction effects into account.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Spatial Inequality of Connectivity: a Spatial Analysis of Public Wi-Fi Locations in New York City</title>
+      <link>https://ryanyangwang.github.io/project/wifi/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ryanyangwang.github.io/project/wifi/</guid>
+      <description>&lt;p&gt;This project offers the very first examination of the spatial patterns of public Wi-Fi hotspots deployment in New York City. Furthermore, it utilizes the Spatially Aware Technology Utilization Model to investigate what drivers (i.e. demographic and socio-economic factors, digital infrastructure, and political affiliation) might impact the spatial distribution of public Wi-Fi hotspot deployment with Geographically Weighted Regression. Through the hot spot analysis, we find that the deployment of public Wi-Fi hotspots is not spatially equal across the five boroughs of New York City. Instead, it is highly clustered in Manhattan as the “hot spot”, while there are a few “cold spots” identified in the other four boroughs. We also find that the deployment of public Wi-Fi hotspots does not favor African American communities, economically depressed neighborhoods, or Republican supporters (compared to Democrats supporters). Meanwhile, none of the digital infrastructure factors play a significant role here. The findings show that the public Wi-Fi hotspots deployment under Internet Master Plan by the de Blasio administration actually reinforces existing gaps in broadband infrastructures, and it does not mitigate broadband access disparities between digitally marginalized areas and the rest of the city.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

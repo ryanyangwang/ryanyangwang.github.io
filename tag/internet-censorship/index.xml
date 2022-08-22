@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet censorship | Ryan Wang</title>
+    <link>https://ryanyangwang.github.io/tag/internet-censorship/</link>
+      <atom:link href="https://ryanyangwang.github.io/tag/internet-censorship/index.xml" rel="self" type="application/rss+xml" />
+    <description>Internet censorship</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanyangwang.github.io/media/icon_hu9929750aa6c345baea2685e82ac1c0be_431545_512x512_fill_lanczos_center_3.png</url>
+      <title>Internet censorship</title>
+      <link>https://ryanyangwang.github.io/tag/internet-censorship/</link>
+    </image>
+    
+    <item>
+      <title>Translation as anti-propaganda weapon? An exploratory analysis of #TheGreatTranslationMovement on Twitter</title>
+      <link>https://ryanyangwang.github.io/project/tgtm/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ryanyangwang.github.io/project/tgtm/</guid>
+      <description>&lt;p&gt;Chinese Communist Party, with its massive propaganda machine, has been disseminating pro-Russia and pro-Putin narrative to Chinese public even before the Russian invasion of Ukraine starting in late February 2022, due to their “no limit” partnership. Alongside the development of China’s aggressive diplomatic voice (the &amp;ldquo;wolf warrior&amp;rdquo;&amp;quot;), and nationalistic public opinion (the &amp;ldquo;little pink&amp;rdquo;) towards the United States and its ally, the majority of radical opinion climate in China towards the Russian invasion of Ukraine has mainly sided with Putin. Meanwhile, Chinese censorship has also effectively silenced the expression for the camp of pro-Ukraine or against the war.&lt;/p&gt;
+&lt;p&gt;Blocked by the Great Firewall, Chinese public has been isolated from outside information. And because of the language barrier, non-Chinese languages users are hard to access the public opinion formation within Chinese media environment. Since March 8th, 2022, a group of Chinese Internet anonymous dissents has started a decentralized &lt;em&gt;The Great Translation Movement&lt;/em&gt; on Twitter (&lt;a href=&#34;https://twitter.com/TGTM_Official&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@TGTM_Official&lt;/a&gt;), which aims at translating not just the pro-war messages promoted by Chinese state-affiliated media, but also the radical and hateful speech from the Putin supporters across Chinese social media platforms, from Chinese to multiple languages – or rather, as &lt;a href=&#34;https://thediplomat.com/2022/04/the-great-translation-movement-shines-a-spotlight-on-chinas-propaganda/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Diplomat&lt;/em&gt;&lt;/a&gt; called, &amp;ldquo;the dark side of the Chinese internet&amp;rdquo; against Chinese president Xi Jinping’s &amp;ldquo;Telling China’s Story Well&amp;rdquo;. Additionally, by utilizing the hashtag #TheGreatTranslationMovement, the dissents also advocated for translation via crowdsourced efforts on Twitter. Since the online movement has extended the content beyond the Russia-Ukraine war, which include but not limited to COVID-19 pandemic, anti-US or anti-Japan sentiment, and etc. Nonetheless, the online movement is also facing some critics as translating and spreading hate speech might ignite the anti-Chinese sentiment, which might be led to the anti-Asian hate crime in countries like United States and Canada.&lt;/p&gt;
+&lt;p&gt;This study aims at providing an exploratory analysis of &lt;em&gt;#TheGreatTranslationMovement&lt;/em&gt; on Twitter. Since this is an ongoing data collection process, the preliminary analysis plans to focus on the English tweets with the hashtag #TheGreatTranslationMovement, via Twitter’s API 2.0 for Academic Research. The main goal for the exploratory analysis is two-folded: (1) what content has been translated in the movement so far; and (2) who on Twitter are participating in the movement.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

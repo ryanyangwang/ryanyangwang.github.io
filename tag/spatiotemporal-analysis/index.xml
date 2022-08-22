@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatiotemporal analysis | Ryan Wang</title>
+    <link>https://ryanyangwang.github.io/tag/spatiotemporal-analysis/</link>
+      <atom:link href="https://ryanyangwang.github.io/tag/spatiotemporal-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatiotemporal analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanyangwang.github.io/media/icon_hu9929750aa6c345baea2685e82ac1c0be_431545_512x512_fill_lanczos_center_3.png</url>
+      <title>Spatiotemporal analysis</title>
+      <link>https://ryanyangwang.github.io/tag/spatiotemporal-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Spatio-temporal analysis of broadband penetration in the United States: An INLA approach</title>
+      <link>https://ryanyangwang.github.io/project/broadband/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ryanyangwang.github.io/project/broadband/</guid>
+      <description>&lt;p&gt;In this study, we are using the current standard of fixed broadband as 25 megabits per second for downloads (Mpbs) and 3 Mpbs for uploads, as defined by the Federal Communication Committees in 2015 and provided through Form 477. Albeit the criticism on the Form 477 data, it is still the most granular data source in terms of its spatial and temporal availability.We are adopting the bottom-up aggregation approach from the census tract level to the county level (N = 3,108 contiguous U.S. counties), in order to better reduce the potential bias led by self-filed broadband metrics collected on a higher order of geographies.&lt;/p&gt;
+&lt;p&gt;Analytically, we are using the Bayesian spatio-temporal statistic model in this project, which is specified with Integrated Nested Laplace Approximation. The biggest advantage of Bayesian inference with an INLA approach is its flexibility to incorporate the latent spatial (i.e., Besag-York-Mollié model) and temporal effects (i.e., random-walk model), and also a space-time interaction. Additionally, it is more efficient when compared to other computationally intensive models such as the Markov Chain Monte Carlo algorithm.&lt;/p&gt;
+&lt;p&gt;In sum, this paper aims at identifying the spatial patterns of broadband penetration in the U.S. and how these patterns evolve over the period of 2016-2020. In particular, we would like to examine the spatial heterogeneity and dependence of broadband penetration in a broader context of (spatial) digital inequality. Such polarized and inequal patterns could lead to further consequences in economic development, community building, and political participation, within various spatial regimes. This paper could further contribute to the literature as the first study on the U.S.’s broadband penetration while taking the spatial, temporal, and their interaction effects into account.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

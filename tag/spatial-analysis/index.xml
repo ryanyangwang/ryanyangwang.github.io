@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatial analysis | Ryan Wang</title>
+    <link>https://ryanyangwang.github.io/tag/spatial-analysis/</link>
+      <atom:link href="https://ryanyangwang.github.io/tag/spatial-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatial analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanyangwang.github.io/media/icon_hu9929750aa6c345baea2685e82ac1c0be_431545_512x512_fill_lanczos_center_3.png</url>
+      <title>Spatial analysis</title>
+      <link>https://ryanyangwang.github.io/tag/spatial-analysis/</link>
+    </image>
+    
+    <item>
+      <title>The Spatial Inequality of Connectivity: a Spatial Analysis of Public Wi-Fi Locations in New York City</title>
+      <link>https://ryanyangwang.github.io/project/wifi/</link>
+      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ryanyangwang.github.io/project/wifi/</guid>
+      <description>&lt;p&gt;This project offers the very first examination of the spatial patterns of public Wi-Fi hotspots deployment in New York City. Furthermore, it utilizes the Spatially Aware Technology Utilization Model to investigate what drivers (i.e. demographic and socio-economic factors, digital infrastructure, and political affiliation) might impact the spatial distribution of public Wi-Fi hotspot deployment with Geographically Weighted Regression. Through the hot spot analysis, we find that the deployment of public Wi-Fi hotspots is not spatially equal across the five boroughs of New York City. Instead, it is highly clustered in Manhattan as the “hot spot”, while there are a few “cold spots” identified in the other four boroughs. We also find that the deployment of public Wi-Fi hotspots does not favor African American communities, economically depressed neighborhoods, or Republican supporters (compared to Democrats supporters). Meanwhile, none of the digital infrastructure factors play a significant role here. The findings show that the public Wi-Fi hotspots deployment under Internet Master Plan by the de Blasio administration actually reinforces existing gaps in broadband infrastructures, and it does not mitigate broadband access disparities between digitally marginalized areas and the rest of the city.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

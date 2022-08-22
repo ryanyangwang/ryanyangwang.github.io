@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network analysis | Ryan Wang</title>
+    <link>https://ryanyangwang.github.io/tag/network-analysis/</link>
+      <atom:link href="https://ryanyangwang.github.io/tag/network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Network analysis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanyangwang.github.io/media/icon_hu9929750aa6c345baea2685e82ac1c0be_431545_512x512_fill_lanczos_center_3.png</url>
+      <title>Network analysis</title>
+      <link>https://ryanyangwang.github.io/tag/network-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Learning from the neighbors: The diffusion of state broadband policies in United States</title>
+      <link>https://ryanyangwang.github.io/project/policy/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ryanyangwang.github.io/project/policy/</guid>
+      <description>&lt;p&gt;This project will examine how state broadband policies diffused among the states in the United States over the last 30-year period utilizing a network approach and a recently released dataset, the State Broadband Explorer curated by the Pew Charitable Trusts’s Broadband Initiates (2019). The 835 state broadband policies in the United States (until January 2021) have been categorized into six main themes: broadband programs, competition and regulation, definitions, funding and financing, infrastructure access and legislative intent.&lt;/p&gt;
+&lt;p&gt;We investigate broadband policies diffusion in the United States at the state level. The existing policy literature has identified four types of diffusion mechanisms: (1) learning by the success (or failure) of policies in other adopting units; (2) competition with other geographical units (i.e., states) for resources; (3) conformity to mandates from higher jurisdictions (such as national governments or international organizations); and (4) emulation of other units perceived to be ideologically compatible. Drawing from the broader policy diffusion literature, the current study aims at presenting the very first examination of state broadband policy diffusion in the United States with a network approach. Specifically, we examine in which states are emerging as exemplars in specific thematic areas and what mechanisms are at work.&lt;/p&gt;
+&lt;p&gt;Instead of employing the traditional approach of event history analysis in policy diffusion literature, this study adopts a network approach based on recent methodological developments. Our purposes in the present study are two-fold: (1) utilizing the netinf algorithm (Gomez-Rodriguez et al., 2012), we infer a latent network of broadband policy diffusion in the United States for the past 30 years. Simultaneously, it uses the centrality measure and community detection algorithm to identify the facilitators (and early adopters) of the diffusion. (2) Building on the latent network generated from the first part, we test the determinants of the observed patterns of diffusion with a multilevel and dynamic logistic model (with pairs of states as the unit of analysis). Specifically, the logistic model incorporates the nodal-level state characteristics including social-demographic factors (i.e., population), political and legislative factors (i.e., legislative control, state governors’ party, state political partisanship), economic factors (i.e., state GDP), as well as the geographical factors such as geographical proximity and contiguity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

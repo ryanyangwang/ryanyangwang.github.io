@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitter | Ryan Wang</title>
+    <link>https://ryanyangwang.github.io/tag/twitter/</link>
+      <atom:link href="https://ryanyangwang.github.io/tag/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Twitter</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanyangwang.github.io/media/icon_hu9929750aa6c345baea2685e82ac1c0be_431545_512x512_fill_lanczos_center_3.png</url>
+      <title>Twitter</title>
+      <link>https://ryanyangwang.github.io/tag/twitter/</link>
+    </image>
+    
+    <item>
+      <title>The Trump effect on &#34;Chinese virus&#34;: Did Trump fuel the toxicity in the Twitterverse?</title>
+      <link>https://ryanyangwang.github.io/project/trump/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ryanyangwang.github.io/project/trump/</guid>
+      <description>&lt;p&gt;Along with the controversy amidst the public health crisis of COVID-19 pandemic, racist harassment, physical violent attacks, and even vandalism targeting Asians and people of Asian descent have spiked in the wake of the pandemic. Among all the cases, the tweet using ‘Chinese virus’ posted by U.S. then-president &lt;em&gt;Donald J. Trump&lt;/em&gt; on March 16th, 2020 was one of the most controversial spices intensified the public sphere, even though he claimed to stop using the term during an interview with Fox News on March 24th. Amid an uptick in anti-Asian violence, Trump’s incendiary rhetoric has been singled out as particularly damaging.&lt;/p&gt;
+&lt;p&gt;Experts and policy makers have warned against using inflammatory and racist tweets since they can serve as a rallying cry for hate crimes. The expressions of ‘Chinese virus’ personify the threat and associate the infection with an ethnicity. This type of language stokes anxiety, resentment, fear and disgust toward people associated with that group. Previous study has recognized the Trump effect — Trump’s racially discrimination language emboldened individuals to voice their prejudice and to act on them (Newman et al., 2020). Such an effect allows us to argue that Trump’s ‘Chinese virus’ tweet may escalate hate speech not only on social media but also in real world.&lt;/p&gt;
+&lt;p&gt;In this study, we aim to explore the public expression of toxicity online after Trump’s tweet, denoted as the &lt;em&gt;Trump effect&lt;/em&gt;. We are particularly interested in whether the Trump effect has escalated the volume of toxicity in the Twitterverse and whether there is a lasting effect following Trump’s tweet. Using non-linear interrupted time series analysis, we have detected a significant and positive &lt;em&gt;Trump effect&lt;/em&gt; on the hourly volume of toxicity on our &amp;lsquo;Chinese virus&amp;rsquo; corpus of 300,550 tweets during a short frame of time, but only in three types of toxicity: severe toxicity, threat and identity attack, as classified by BERT using a pre-trained model. And after incoporating temporal autocorrelation, the resulsts still hold as further confirmed by the ARIMA models.Only threat detects a lasting rise caused by Trump effect, as indicated by the positive shift instantly following Trump’s tweet, and the positive post-treatment slope change. The joint effect of the quadratics terms only worked for severe toxicity, which is slowly progressively increase over time.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
