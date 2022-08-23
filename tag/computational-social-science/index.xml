@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Twitter | Ryan Wang</title>
-    <link>https://ryanyangwang.github.io/tag/twitter/</link>
-      <atom:link href="https://ryanyangwang.github.io/tag/twitter/index.xml" rel="self" type="application/rss+xml" />
-    <description>Twitter</description>
+    <title>Computational Social Science | Ryan Wang</title>
+    <link>https://ryanyangwang.github.io/tag/computational-social-science/</link>
+      <atom:link href="https://ryanyangwang.github.io/tag/computational-social-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Social Science</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryanyangwang.github.io/media/icon_hu9929750aa6c345baea2685e82ac1c0be_431545_512x512_fill_lanczos_center_3.png</url>
-      <title>Twitter</title>
-      <link>https://ryanyangwang.github.io/tag/twitter/</link>
+      <title>Computational Social Science</title>
+      <link>https://ryanyangwang.github.io/tag/computational-social-science/</link>
     </image>
     
     <item>
